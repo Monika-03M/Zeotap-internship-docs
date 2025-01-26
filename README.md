@@ -8,7 +8,7 @@ data
 └── Transactions.csv
 
 ```
-##The tasks include :
+## The tasks include :
 Task 1: Exploratory Data Analysis (EDA) and Business Insights
 Task 2: Lookalike Model
 ask 3: Customer Segmentation / Clustering
